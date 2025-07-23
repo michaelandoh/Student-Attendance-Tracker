@@ -145,10 +145,10 @@ const StudentAttendance = () => {
         description: "Your attendance has been successfully recorded",
       });
 
-      // Redirect to homepage after 3 seconds
-      setTimeout(() => {
-        navigate('/');
-      }, 3000);
+      // // Redirect to homepage after 3 seconds
+      // setTimeout(() => {
+      //   navigate('/');
+      // }, 3000);
 
     } catch (error: any) {
       toast({
