@@ -55,7 +55,7 @@ This project is built with:
 You can deploy this project using any static hosting service such as Vercel, Netlify, or GitHub Pages.  
 Refer to their documentation for deployment instructions.
 
-git clone https://github.com/michaelandoh/classsnap-attendance-hub.git
+https://github.com/michaelandoh/Student-Attendance-Tracker.git
 =======
 # Student-Attendance-Tracker
 Final Year Project
