@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Attendance Tracker
 
 ## Project Info
@@ -55,3 +56,7 @@ You can deploy this project using any static hosting service such as Vercel, Net
 Refer to their documentation for deployment instructions.
 
 git clone https://github.com/michaelandoh/classsnap-attendance-hub.git
+=======
+# Student-Attendance-Tracker
+Final Year Project
+>>>>>>> fac7ff5b3f72a6253f15015a42af015a681f666b
